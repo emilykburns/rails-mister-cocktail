@@ -28,5 +28,3 @@ class CocktailsController < ApplicationController
     params.require(:cocktail).permit(:name)
   end
 end
-
-end
