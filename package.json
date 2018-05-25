@@ -1,5 +1,16 @@
 {
   "name": "rails-mister-cocktail",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "@rails/webpacker": "3.5"
+  },
+  "version": "1.0.0",
+  "description": "bla",
+  "main": "index.js",
+  "repository": "git@github.com:emilykburns/rails-mister-cocktail.git",
+  "author": "emily",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack-dev-server": "2.11.2"
+  }
 }
